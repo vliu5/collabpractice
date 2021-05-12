@@ -1,9 +1,9 @@
-# Pancakes Recipe
+# Good Old Fashioned Pancakes Recipe
 
-## Ingredients
-- eggs
-- flour
+### Ingredients
+- 1 eggs
+- 1.5 flour
 - milk
 - sugar
-- salt
+- 1 tsp salt
 - syrup
