@@ -5,5 +5,5 @@
 - flour
 - milk
 - sugar
-
-add more
+- salt
+- syrup
